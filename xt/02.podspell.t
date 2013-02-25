@@ -8,3 +8,4 @@ __DATA__
 moznion
 moznion@gmail.com
 Acme::PM::Hachioji
+pm
