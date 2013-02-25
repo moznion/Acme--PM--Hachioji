@@ -9,3 +9,9 @@ Makefile.old
 nytprof.out
 MANIFEST.bak
 *.sw[po]
+Acme-PM-Hachioji-*
+Build
+*.bak
+META.*
+MYMETA.*
+_build/
