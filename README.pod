@@ -2,7 +2,7 @@ NAME
     Acme::PM::Hachioji - Utilities for Hachioji.pm
 
 VERSION
-    This document describes Acme::PM::Hachioji version 0.0.1
+    This document describes Acme::PM::Hachioji version 0.01
 
 SYNOPSIS
         use Acme::PM::Hachioji;

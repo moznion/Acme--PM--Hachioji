@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 use parent 'Exporter';
 
-use version; our $VERSION = qv('0.0.1');
+our $VERSION = '0.01';
 our @EXPORT = qw/greet/;
 
 sub greet {
@@ -22,7 +22,7 @@ Acme::PM::Hachioji - Utilities for Hachioji.pm
 
 =head1 VERSION
 
-This document describes Acme::PM::Hachioji version 0.0.1
+This document describes Acme::PM::Hachioji version 0.01
 
 
 =head1 SYNOPSIS

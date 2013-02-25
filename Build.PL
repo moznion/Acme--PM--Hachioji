@@ -3,6 +3,7 @@ use warnings;
 use Module::Build;
 
 my $builder = Module::Build->new(
+    name               => 'Acme-PM-Hachioji',
     module_name        => 'Acme::PM::Hachioji',
     license            => 'perl',
     dist_author        => 'moznion <moznion@gmail.com>',
