@@ -9,3 +9,4 @@ moznion
 moznion@gmail.com
 Acme::PM::Hachioji
 pm
+MERCHANTABILITY
